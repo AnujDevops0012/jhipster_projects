@@ -14,7 +14,6 @@ import com.project1.security.AuthoritiesConstants;
 import com.project1.service.UserService;
 import com.project1.service.dto.AdminUserDTO;
 import com.project1.service.dto.PasswordChangeDTO;
-import com.project1.service.dto.UserDTO;
 import com.project1.web.rest.vm.KeyAndPasswordVM;
 import com.project1.web.rest.vm.ManagedUserVM;
 import java.time.Instant;
